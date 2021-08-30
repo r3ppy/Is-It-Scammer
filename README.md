@@ -37,7 +37,7 @@
 
 **If the message from a random number that means that it's scam**
 
-**Never open the url if it wan't the main site domain or url**
+**Never open the url if it wasn't the main site domain or url**
 
 ![Alt text](https://i.imgur.com/XkWCmCP.png)
 
