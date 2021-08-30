@@ -24,3 +24,12 @@
 ![Alt text](https://i.imgur.com/KpdHLMb.png)
 
 # 3:
+**Check The Reality Level Of The Letter!**
+
+**For example, this letter is a photo! would the main website send u a photo as a full letter?**
+
+![Alt text](https://i.imgur.com/fuOtLlu.png)
+
+**So be carefull too from the other scammers that use good letters .html to send to you**
+
+# 4:
