@@ -15,3 +15,12 @@
 
 
 # 2:
+**You have to check the page url**
+
+**The main site would never ask you for your confirmation in a strange domain or website**
+
+**So when we look at this photo we see that it's 100% like yahoo! but the main domain is not yahoo! so it's a 100% a scam**
+
+![Alt text](https://i.imgur.com/KpdHLMb.png)
+
+# 3:
