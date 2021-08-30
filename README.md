@@ -7,7 +7,11 @@
 
 # 1:
 **Actually the main websites would never send you a message from a strange from mail**
-![Alt text](https://i.imgur.com/kbTBB8l.png) 
+
+**It has to be @facebook.com / @bank.com / @etc.com but from the main website**
+![Alt text](https://i.imgur.com/kbTBB8l.png)
 
 **And the main from name and subject 70% would be fake and not foramlly from the site**
 
+
+# 2:
