@@ -33,3 +33,11 @@
 **So be carefull too from the other scammers that use good letters .html to send to you**
 
 # 4:
+**Some time too you can recieve a phone message that has a url to confirm your bla bla bla**
+
+**If the message from a random number that means that it's scam**
+
+**Never open the url if it wan't the main site domain or url**
+
+![Alt text](https://i.imgur.com/XkWCmCP.png)
+
